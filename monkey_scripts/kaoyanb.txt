@@ -1,0 +1,28 @@
+type = raw events
+count = 1
+speed = 1.0
+
+start data >>
+
+LaunchActivity(com.tal.kaoyan,com.tal.kaoyan.ui.activity.SplashActivity)
+UserWait(2000)
+
+Tap(637,942,1000)
+UserWait(2000)
+
+Tap(799,67,1000)
+UserWait(2000)
+
+Tap(117,365,1000)
+DispatchString(george9527)
+
+Tap(118,476,1000)
+DispatchString(george9527)
+
+Tap(453,629,1000)
+UserWait(2000)
+
+
+
+
+

@@ -1,0 +1,48 @@
+2019-10-24 18:43:08,158 yaml_handler.py[line:30] INFO =====name=====
+2019-10-24 18:47:44,998 yaml_handler.py[line:30] INFO =====name=====
+2019-10-24 18:48:08,967 yaml_handler.py[line:30] INFO =====name=====
+2019-10-25 00:19:45,833 yaml_handler.py[line:33] INFO =====name=====
+2019-10-25 00:22:04,974 yaml_handler.py[line:33] INFO =====name=====
+2019-10-25 00:25:17,204 get_config.py[line:41] INFO =====starting app,please wait=====
+2019-10-25 00:25:17,209 get_config.py[line:44] INFO =====wait to page refresh=====
+2019-10-25 00:25:19,665 common_fun.py[line:36] INFO =====Click Cancel btn====
+2019-10-25 00:25:21,349 common_fun.py[line:49] INFO =====Click skip btn====
+2019-10-25 00:51:18,239 get_config.py[line:41] INFO =====starting app,please wait=====
+2019-10-25 00:51:18,245 get_config.py[line:44] INFO =====wait to page refresh=====
+2019-10-25 00:51:20,525 common_fun.py[line:36] INFO =====Click Cancel btn====
+2019-10-25 00:51:21,625 common_fun.py[line:49] INFO =====Click skip btn====
+2019-10-25 00:51:28,503 LoginView.py[line:32] INFO =====input username====
+2019-10-25 00:51:33,233 LoginView.py[line:40] INFO =====input password====
+2019-10-25 00:51:33,976 LoginView.py[line:48] INFO =====click to login====
+2019-10-25 01:06:26,401 get_config.py[line:41] INFO =====starting app,please wait=====
+2019-10-25 01:06:26,406 get_config.py[line:44] INFO =====wait to page refresh=====
+2019-10-25 01:06:29,816 common_fun.py[line:36] INFO =====Click Cancel btn====
+2019-10-25 01:06:31,316 common_fun.py[line:49] INFO =====Click skip btn====
+2019-10-25 01:06:37,083 LoginView.py[line:32] INFO =====input username====
+2019-10-25 01:06:42,451 LoginView.py[line:40] INFO =====input password====
+2019-10-25 01:06:43,164 LoginView.py[line:48] INFO =====click to login====
+2019-10-25 01:07:47,849 get_config.py[line:41] INFO =====starting app,please wait=====
+2019-10-25 01:07:47,854 get_config.py[line:44] INFO =====wait to page refresh=====
+2019-10-25 01:07:49,066 common_fun.py[line:36] INFO =====Click Cancel btn====
+2019-10-25 01:07:50,618 common_fun.py[line:49] INFO =====Click skip btn====
+2019-10-25 01:07:56,352 LoginView.py[line:32] INFO =====input username====
+2019-10-25 01:08:01,582 LoginView.py[line:40] INFO =====input password====
+2019-10-25 01:08:02,236 LoginView.py[line:48] INFO =====click to login====
+2019-10-25 09:53:47,317 yaml_handler.py[line:33] INFO =====name=====
+2019-10-25 09:56:35,380 yaml_handler.py[line:34] INFO =====name=====
+2019-10-25 10:01:21,461 yaml_handler.py[line:34] INFO =====name=====
+2019-10-25 10:14:32,632 yaml_handler.py[line:31] INFO =====name=====
+2019-10-25 10:15:29,795 get_config.py[line:41] INFO =====starting app,please wait=====
+2019-10-25 10:15:29,801 get_config.py[line:44] INFO =====wait to page refresh=====
+2019-10-25 10:15:31,715 common_fun.py[line:36] INFO =====Click Cancel btn====
+2019-10-25 10:15:34,554 common_fun.py[line:49] INFO =====Click skip btn====
+2019-10-25 10:44:44,823 setUp_tearDown.py[line:21] INFO =====SetUp=====
+2019-10-25 10:44:57,580 get_config.py[line:41] INFO =====starting app,please wait=====
+2019-10-25 10:44:57,590 get_config.py[line:44] INFO =====wait to page refresh=====
+2019-10-25 10:44:57,590 test_login_action.py[line:29] INFO =====test login error=====
+2019-10-25 10:44:59,255 common_fun.py[line:36] INFO =====Click Cancel btn====
+2019-10-25 10:45:01,490 common_fun.py[line:49] INFO =====Click skip btn====
+2019-10-25 10:45:07,699 LoginView.py[line:32] INFO =====input username====
+2019-10-25 10:45:12,940 LoginView.py[line:40] INFO =====input password====
+2019-10-25 10:45:13,658 LoginView.py[line:48] INFO =====click to login====
+2019-10-25 10:45:13,658 setUp_tearDown.py[line:29] INFO =====TearDown=====

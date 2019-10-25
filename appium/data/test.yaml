@@ -1,0 +1,7 @@
+age: 16
+friends:
+- age: 16
+  name: marry
+- age: 17
+  name: jack
+name: george
